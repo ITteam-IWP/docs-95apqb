@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-qfcinh.nihon-bare.com/sitemap.xml
